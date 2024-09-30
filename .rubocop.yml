@@ -1,0 +1,8 @@
+require:
+  - rubocop-rails
+AllCops:
+  TargetRailsVersion: 7.0
+  TargetRubyVersion: 3.1
+  NewCops: enable
+Rails:
+  Enabled: true
